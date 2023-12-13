@@ -420,7 +420,7 @@ color: black;
 
 .day-28 {
     grid-area: d28;
-    background: url("image/frame/frame21.png");
+    background: url("image/frame/frame28.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -428,7 +428,7 @@ color: black;
 }
 
 .day-28 .back {
-    background-image: url("image/card/card-21.png");
+    background-image: url("image/card/card-28.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -436,7 +436,7 @@ color: black;
 
 .day-29 {
     grid-area: d29;
-    background: url("image/frame/frame22.png");
+    background: url("image/frame/frame29.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -444,7 +444,7 @@ color: black;
 }
 
 .day-29 .back {
-    background-image: url("image/card/card-22.png");
+    background-image: url("image/card/card-29.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -452,7 +452,7 @@ color: black;
 
 .day-30 {
     grid-area: d30;
-    background: url("image/frame/frame23.png");
+    background: url("image/frame/frame30.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -460,7 +460,7 @@ color: black;
 }
 
 .day-30 .back {
-    background-image: url("image/card/card-23.png");
+    background-image: url("image/card/card-30.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -468,7 +468,7 @@ color: black;
 
 .day-31 {
     grid-area: d31;
-    background: url("image/frame/frame24.png");
+    background: url("image/frame/frame31.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -476,7 +476,7 @@ color: black;
 }
 
 .day-31 .back {
-    background-image: url("image/card/card-24.png");
+    background-image: url("image/card/card-31.png");
     background-position: center;
     background-size: cover;
     border-radius: 10px;

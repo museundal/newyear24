@@ -7,3 +7,4 @@ fossera.jar filter=lfs diff=lfs merge=lfs -text
 nexusapi.txt filter=lfs diff=lfs merge=lfs -text
 nexus-fossera-security-plugin.jar filter=lfs diff=lfs merge=lfs -text
 create_repo.sh filter=lfs diff=lfs merge=lfs -text
+nexus.tar.gz filter=lfs diff=lfs merge=lfs -text

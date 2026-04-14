@@ -9,3 +9,4 @@ nexus-fossera-security-plugin.jar filter=lfs diff=lfs merge=lfs -text
 create_repo.sh filter=lfs diff=lfs merge=lfs -text
 nexus.tar.gz filter=lfs diff=lfs merge=lfs -text
 check_repo.sh filter=lfs diff=lfs merge=lfs -text
+git-lfs-linux-amd64-v3.7.1.tar.gz filter=lfs diff=lfs merge=lfs -text
